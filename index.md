@@ -1,11 +1,11 @@
 ---
 layout: page
 title: partial, insignificant, and negative results
+tagline: from Max Hutchinson
 ---
 {% include JB/setup %}
 
-## What is this blog for?
-Partial, insignificant, and negative results. For now, at least. 
+This blog is still under construction.  Content, even posts, will be changing.
 
 ## Posts
 
