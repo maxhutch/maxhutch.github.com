@@ -10,7 +10,7 @@ tags: []
 This blog is intended to be a home for short notes and data that are not well suited for more conventional publication.  I am not sure how it will evolve from here, seeing as I only have one post immediately in mind.  
 
 ### Reuse and citation
-Consider the content public domain.  If you decide to extend any of my efforts, please cite {% cite Fenner2011 %} the relevant blog entries and [get in touch](mailto:maxhutch@gmail.com).
+Consider the content public domain.  If you decide to extend any of my efforts, please cite the relevant blog entries {% cite Fenner2011 %} and [get in touch](mailto:maxhutch@gmail.com).
 
     @misc{
       author = {Hutchinson, Maxwell},
