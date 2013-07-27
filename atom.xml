@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The Blog of Unfinished Tales</title>
+ <link href="http://maxhutch.github.com/" rel="self"/>
+ <link href="http://maxhutch.github.com"/>
+ <updated>2013-07-27T11:32:32-04:00</updated>
+ <id>http://maxhutch.github.com</id>
+ <author>
+   <name>Max Hutchinson</name>
+   <email>maxhutch@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Introduction (and formalities)</title>
+   <link href="http://maxhutch.github.com/2013/07/27/introduction"/>
+   <updated>2013-07-27T00:00:00-04:00</updated>
+   <id>http://maxhutch.github.com/2013/07/27/introduction</id>
+   <content type="html">&lt;p&gt;This blog is intended to be a home for short notes and data that are not well suited for more conventional publication. I am not sure how it will evolve from here, seeing as I only have posts on one topic immediately in mind.&lt;/p&gt;
+
+&lt;h3 id='reuse_and_citation'&gt;Reuse and citation&lt;/h3&gt;
+
+&lt;p&gt;If you want to extend my work or collaborate, &lt;a href='mailto:maxhutch@gmail.com'&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The content of the posts are &lt;a href='http://creativecommons.org/licenses/by-sa/3.0/deed.en_US'&gt;CC-BY-SA&lt;/a&gt;. Please attribute by citing the relevant blog entries &lt;a href='#Fenner2011'&gt;(Fenner, 2011)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;@misc{
+  author = {Hutchinson, Maxwell},
+  title = {POST_TITLE},
+  journal = {The Blog of Unfinished Tales},
+  type = {Blog},
+  number = {MONTH DD},
+  year = {YYYY},
+  howpublished = {\url{PERM_LINK}}
+}&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Posts with accompanying data and/or code will have their content placed in a separate git repo with its own licencing, usually &lt;a href='http://www.gnu.org/licenses/gpl-3.0.html'&gt;GPLv3&lt;/a&gt;. If you&amp;#8217;d like different licensing terms then &lt;a href='mailto:maxhutch@gmail.com'&gt;get in touch&lt;/a&gt; and we&amp;#8217;ll figure something out.&lt;/p&gt;
+
+&lt;h3 id='references'&gt;References&lt;/h3&gt;
+&lt;ol class='bibliography'&gt;&lt;li&gt;&lt;span id='Fenner2011'&gt;Fenner, M. (2011). How to formally cite a blog post. &lt;i&gt;Gobbledygook&lt;/i&gt;. Blog.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+ </entry>
+ 
+ 
+</feed>
